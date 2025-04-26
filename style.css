@@ -1,0 +1,9 @@
+/* selecor por tag */
+h2 {
+    color: blue;
+}
+
+/* cambiar el color de una etiqueta p dentro de una etiqueta */
+article p {
+    color: green;
+}
